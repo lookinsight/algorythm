@@ -1,1 +1,3 @@
-"# Doit!! git init part1"  
+"# Doit!! algorythm python!!
+
+"# 
